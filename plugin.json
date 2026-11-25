@@ -4,6 +4,9 @@
   "displayName": "Adspirer Advertising Agent",
   "version": "1.0.0",
   "description": "Run Google Ads, Meta, TikTok, LinkedIn, Microsoft and Amazon ad campaigns: keyword research, launch, reporting, optimization. New campaigns start paused.",
+  "category": [
+    "Marketing"
+  ],
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Review my ad performance across every connected platform for the last 30 days and name the three changes that matter most",
