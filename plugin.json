@@ -1,0 +1,52 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "adspirer-advertising-agent",
+  "displayName": "Adspirer Advertising Agent",
+  "version": "1.0.0",
+  "description": "Research, launch and optimize Google, Meta, TikTok, LinkedIn, Microsoft and Amazon ad campaigns. New campaigns start paused; spend changes need your approval.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Review my ad performance across every connected platform for the last 30 days and name the three changes that matter most",
+    "Find ad spend that is not converting and propose fixes for me to approve",
+    "Research keywords for my product and plan a Google Search campaign, created paused for my review"
+  ],
+  "author": {
+    "name": "Adspirer",
+    "email": "support@adspirer.com",
+    "url": "https://www.adspirer.com"
+  },
+  "homepage": "https://www.adspirer.com",
+  "repository": "https://github.com/Adspirer/adspirer-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "adspirer",
+    "advertising",
+    "ppc",
+    "paid media",
+    "paid search",
+    "paid social",
+    "retail media",
+    "performance marketing",
+    "google ads",
+    "meta ads",
+    "facebook ads",
+    "instagram ads",
+    "tiktok ads",
+    "linkedin ads",
+    "microsoft ads",
+    "bing ads",
+    "amazon ads",
+    "walmart connect",
+    "chatgpt ads",
+    "performance max",
+    "campaign management",
+    "keyword research",
+    "ad copy",
+    "roas",
+    "acos",
+    "cpa",
+    "wasted spend",
+    "budget optimization",
+    "conversion tracking"
+  ]
+}
